@@ -6,30 +6,20 @@
 
 I am a passionate software developer with a keen interest in building scalable and efficient applications. I enjoy learning new technologies and continuously improving my coding skills.
 
-- 🌱 I’m currently learning **[Your Current Learning Topic]**
-- 👯 I’m looking to collaborate on **[Your Collaboration Interests]**
-- 💬 Ask me about **[Your Expertise or Interests]**
-- 📫 How to reach me: [Your Email](mailto:your.email@example.com)
-- 😄 Pronouns: They/Them
+- 👨‍💻 Software Architect | Software Development Specialist
+- 🔧 Focused on creating scalable and robust solutions
+- 🌐 Passionate about modern technologies and best practices in software engineering
+- 📚 Always learning and sharing knowledge about system architecture and design patterns
+- ⚙️ Proficient in Architecture and Development of microservices systems
 
 ## Skills
 
 Here are some of the technologies and tools I have experience with:
 
-- **Languages:** Python, JavaScript, TypeScript, Java, C++
-- **Frameworks:** React, Node.js, Django, Spring Boot
+- **Languages:** JavaScript, TypeScript, PHP, Python, Dart
+- **Frameworks:** Laravel, React, React Native, Flutter
 - **Databases:** MySQL, PostgreSQL, MongoDB
 - **Tools:** Git, Docker, Kubernetes, AWS
-
-## Projects
-
-Here are a few projects I've worked on:
-
-### [Project Name](https://github.com/felipeminello/project-repo)
-A brief description of the project and what it does.
-
-### [Another Project](https://github.com/felipeminello/another-project-repo)
-A brief description of the project and what it does.
 
 ## GitHub Stats
 
@@ -37,5 +27,4 @@ A brief description of the project and what it does.
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/felipeminello)
-- [Twitter](https://twitter.com/felipeminello)
+- [LinkedIn](https://www.linkedin.com/in/minello)
